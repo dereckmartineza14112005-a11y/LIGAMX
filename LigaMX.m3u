@@ -1,14 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="partido1" tvg-name="Tigres vs Santos Laguna (19:00 CDMX)" tvg-logo="https://espnpressroom.com/us/files/2016/10/00-Liga-MX-Logo-512-x-512px.png" group-title="Liga MX",Tigres vs Santos Laguna (19:00 CDMX)
-https://live20.bozztv.com/akamaissh101/ssh101/lmxtv2026/playlist.m3u8
+#EXTINF:-1 tvg-id="partido" tvg-name="Tigres vs Pachuca (19:00 CDMX)" tvg-logo="https://espnpressroom.com/us/files/2016/10/00-Liga-MX-Logo-512-x-512px.png" group-title="Liga MX",Tigres vs Pachuca (19:00 CDMX)
+https://usb.bozztv.com/lmxtv2026/index.m3u8
 
-#EXTINF:-1 tvg-id="partido2" tvg-name="Necaxa vs San Luis (19:00 CDMX)" tvg-logo="https://espnpressroom.com/us/files/2016/10/00-Liga-MX-Logo-512-x-512px.png" group-title="Liga MX",Necaxa vs San Luis (19:00 CDMX)
-https://live20.bozztv.com/akamaissh101/ssh101/lmxtv2026/playlist.m3u8
-
-#EXTINF:-1 tvg-id="partido3" tvg-name="Tijuana vs Puebla (21:06 CDMX)" tvg-logo="https://espnpressroom.com/us/files/2016/10/00-Liga-MX-Logo-512-x-512px.png" group-title="Liga MX",Tijuana vs Puebla (21:06 CDMX)
-https://live20.bozztv.com/akamaissh101/ssh101/lmxtv2026/playlist.m3u8
-
-#EXTINF:-1 tvg-id="partido4" tvg-name="Mazatlan vs Chivas (21:06 CDMX)" tvg-logo="https://espnpressroom.com/us/files/2016/10/00-Liga-MX-Logo-512-x-512px.png" group-title="Liga MX",Mazatlan vs Chivas (21:06 CDMX)
-https://live20.bozztv.com/akamaissh101/ssh101/lmxtv2026/playlist.m3u8
+#EXTINF:-1 tvg-id="partido" tvg-name="Puebla vs America (21:06 CDMX)" tvg-logo="https://espnpressroom.com/us/files/2016/10/00-Liga-MX-Logo-512-x-512px.png" group-title="Liga MX",Puebla vs America (21:06 CDMX)
+https://usb.bozztv.com/lmxtv2026/index.m3u8
 
